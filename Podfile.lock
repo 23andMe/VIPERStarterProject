@@ -1,0 +1,16 @@
+PODS:
+  - Swinject (2.0.0)
+  - SwinjectPropertyLoader (1.0.0):
+    - Swinject (~> 2.0.0)
+
+DEPENDENCIES:
+  - Swinject
+  - SwinjectPropertyLoader (>= 1.0.0)
+
+SPEC CHECKSUMS:
+  Swinject: 2e964a80d70ab09b3949c99032711f89147bfd60
+  SwinjectPropertyLoader: 5b26a1d3a6ba44fbe61425e06aba18ed64b76f4e
+
+PODFILE CHECKSUM: b897b583ff7468d0451074650803fec39c944632
+
+COCOAPODS: 1.4.0

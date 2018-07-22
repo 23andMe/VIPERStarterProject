@@ -1,0 +1,4 @@
+{
+    // json file where we can add properties that we can later access for objects
+    // inside container at time of resolution
+}
